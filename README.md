@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Give me a coffe with this banner below 👇👇
-<a href="https://coffeebede.ir/buycoffee/alireza007"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-
 <!--
 **alireza00714/alireza00714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
